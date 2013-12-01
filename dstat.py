@@ -309,6 +309,7 @@ Dstat options:
   --noheaders            disable repetitive headers
   --noupdate             disable intermediate updates
   --output file          write CSV output to file
+  --pidfile              disable Concurrent execution
 
 delay is the delay in seconds between each update (default: 1)
 count is the number of updates to display before exiting (default: unlimited)
